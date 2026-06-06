@@ -1,0 +1,14 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+matplotlib>=3.7
+tensorflow>=2.15
+
+# Optional: API server
+# fastapi>=0.110
+# uvicorn[standard]>=0.27
+
+# Optional: development
+# pytest>=7.4
+# pytest-cov>=4.1
+# ruff>=0.4
